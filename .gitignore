@@ -1,0 +1,6 @@
+annotations/
+train2014/
+val2014/
+val2014.zip
+yolov3-tiny.cfg
+yolov3-tiny.weights
